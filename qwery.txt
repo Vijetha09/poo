@@ -1,2 +1,7 @@
 helllooooooooo
+<<<<<<< HEAD
 idiot
+=======
+asdfghjkl
+fghj
+>>>>>>> d0ec2d7... fghjkl
